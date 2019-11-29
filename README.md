@@ -16,4 +16,4 @@
 
 <br>
 
-### 5. Gambar berikut merupakan contoh dari penggunaan protokol ? : ![5](https://lh6.googleusercontent.com/tVQ7iw308l_fGarpH0VdsEkXWyI-a2rQEHz2K8bTJzqInLoW2FQOJxeiDhSABsD38fP5ao6TvMIQoIyI73Jdn2QNGXHsHmRQTVgDc2VtyI2kbGXrh2aRkNycYLNRzTOZZCZAE-ap)
+### 5. Gambar berikut merupakan contoh dari penggunaan protokol ? : <img src="https://lh6.googleusercontent.com/tVQ7iw308l_fGarpH0VdsEkXWyI-a2rQEHz2K8bTJzqInLoW2FQOJxeiDhSABsD38fP5ao6TvMIQoIyI73Jdn2QNGXHsHmRQTVgDc2VtyI2kbGXrh2aRkNycYLNRzTOZZCZAE-ap" alt="OSI Model" width="200"/>
